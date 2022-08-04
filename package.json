@@ -1,0 +1,28 @@
+{
+  "name": "cypress-ui",
+  "version": "1.0.0",
+  "description": "automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashmi-j/Cypress-UI.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashmi-j/Cypress-UI/issues"
+  },
+  "homepage": "https://github.com/rashmi-j/Cypress-UI#readme",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "mocha": "^10.0.0",
+    "mochawesome": "^7.1.3"
+  }
+}
